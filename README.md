@@ -1,4 +1,3 @@
-# Ds-sort
 # Ds-Sort
 A sorting visualizer
 
@@ -7,4 +6,6 @@ In the project we can select the sorting algorithm we want to visualize also wit
 OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/2c2bebcb-5bfe-4da7-87f8-ec4fb0693305)
+
+![image](https://github.com/user-attachments/assets/ef50df9c-ffcb-4ed7-8a52-cc464171ee8b)
+
