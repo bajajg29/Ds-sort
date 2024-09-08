@@ -1,4 +1,6 @@
 # Ds-Sort
+Deployed link: https://ds-sort-li21.onrender.com
+
 A sorting visualizer
 
 Most of us face issue while understanding the sorting concepts. Here's a solution by visualizing things we can easily understand how it is working and also the underlying complexity. 
@@ -6,4 +8,4 @@ In the project we can select the sorting algorithm we want to visualize also wit
 OUTPUT:
 ![image](https://github.com/user-attachments/assets/ef50df9c-ffcb-4ed7-8a52-cc464171ee8b)
 
-Deployed link: https://ds-sort-li21.onrender.com
+
